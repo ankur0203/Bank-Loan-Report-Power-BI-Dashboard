@@ -57,3 +57,7 @@ Bank loan dataset with loan ID, purpose, home ownership, grade, issue date, fund
 2. Open it in Power BI Desktop.
 3. Use the Summary, Overview, and Details pages and the slicers for State, Grade, Purpose, and Good vs Bad Loans.
 
+## Screenshots
+
+### Summary
+
